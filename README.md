@@ -22,6 +22,5 @@ Here are some ideas to get you started:
   <a>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082&layout=default&theme=vue&hide=fortran"></img>
   </a>
-  [![@ritish1082's Holopin board](https://holopin.io/api/user/board?user=ritish1082)](https://holopin.io/@ritish1082)
 </p>
 
