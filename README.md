@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 ![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical)
 
 
