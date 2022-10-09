@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    <p>
-        <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=vue"></img></a>
-        <a></a>
-
-
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082&layout=default&theme=vue&hide=fortran"></img>
-    </p>
     
-
+![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082a&count_private=true)
 [![@ritish1082's Holopin board](https://holopin.io/api/user/board?user=ritish1082)](https://holopin.io/@ritish1082)
 
 
