@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
     
-![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true)
+![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical)
 [![@ritish1082's Holopin board](https://holopin.io/api/user/board?user=ritish1082)](https://holopin.io/@ritish1082)
 
 
