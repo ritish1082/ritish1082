@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical)
 [![@ritish1082's Holopin board](https://holopin.io/api/user/board?user=ritish1082)](https://holopin.io/@ritish1082)
 
-<img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75">
+<img style="width: 250px;" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
+
 
 
