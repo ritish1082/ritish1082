@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082)](https://github.com/ritish1082/github-readme-stats)
-
 ![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical)
 
 
