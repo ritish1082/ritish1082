@@ -15,16 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082)](https://github.com/ritish1082/github-readme-stats)   ![ritish1082's GitHub stats]() -->
-
-<div>
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082" style="width:250px;height:250px;margin-right:150px;" >
-  <img src ="https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical" style="width:250px;height:250px">
-
-<div>
  <img style="width: 250px;" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
 </div>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritish1082)](https://github.com/ritish1082/github-readme-stats)   ![ritish1082's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritish1082&count_private=true&show_icons=true&theme=radical)
