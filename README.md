@@ -8,7 +8,7 @@
 
 - 📫   How to reach me: sritish.10@gmail.com.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ritish-reddy)
 [![Medium Badge](https://img.shields.io/badge/-Medium-e4405f?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@ritish-reddy)
 <br><br>
 
