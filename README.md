@@ -37,12 +37,10 @@
 </div><br><br><br>
 
 
-### 📊 Stats
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ritish1082&show_icons=true&locale=en" alt="ritish1082" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritish1082&show_icons=true&locale=en&layout=compact" alt="ritish1082" />
-</div><br><br><br><br><br><br><br><br><br>
-
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ritish1082&show_icons=true&locale=en" alt="ritish1082" />
+<!-- refer !-->
+<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritish1082&show_icons=true&locale=en&layout=compact" alt="ritish1082" /> -->
+<!-- </div><br><br><br><br><br><br><br><br><br> !-->
 
 ### 🎗️ Open Source
 <img style="width:200px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
