@@ -1,10 +1,10 @@
 # Hi 👋 , I'm  Ritish Reddy
 
-- 🛠   I’m currently working with ReactJS, Firebase, Tensorflow
+- 🛠   I’m currently working with ReactJS, Firebase, and Tensorflow.
 
-- 🚀   I’m currently learning Deep learning
+- 🚀   I’m currently learning Go and PySpark.
 
-- 👨🏻‍💻   Most of my projects are available on Github.
+- 👨🏻‍💻   Most of my projects are available on GitHub.
 
 - 📫   How to reach me: sritish.10@gmail.com.
 
@@ -43,7 +43,7 @@
 <!-- </div><br><br><br><br><br><br><br><br><br> !-->
 
 ### 🎗️ Open Source
-<img style="width:200px" src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" />
+<img style="width:200px" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHVrb3MwMDk0MDlqbnVuaGRhcDd3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" />
 
 
 
